@@ -1,1 +1,3 @@
 langchain-openai python-dotenv
+
+python-dotenv langchain langchain-upstage langchain-community langchain-text-splitters
